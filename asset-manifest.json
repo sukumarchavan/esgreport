@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//sukumarchavan.github.io/esgreport/static/css/main.27c0943b.css",
+    "main.js": "//sukumarchavan.github.io/esgreport/static/js/main.7670b75d.js",
+    "index.html": "//sukumarchavan.github.io/esgreport/index.html",
+    "main.27c0943b.css.map": "//sukumarchavan.github.io/esgreport/static/css/main.27c0943b.css.map",
+    "main.7670b75d.js.map": "//sukumarchavan.github.io/esgreport/static/js/main.7670b75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c0943b.css",
+    "static/js/main.7670b75d.js"
+  ]
+}
